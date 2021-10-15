@@ -21,3 +21,7 @@
 3. Ripple Effect (Just a different version of the EMO display that demonstrates a ripple like effect with multiple time frames) - <a href="https://github.com/vinsdragonis/Arduino-8x8-matrix/blob/master/Ripple%20Effect/Ripples.ino">Ripple Effect</a>
 4. Joystick - <a href="https://github.com/vinsdragonis/Arduino-8x8-matrix/blob/master/Joystick/Joystick_with_8x8_matrix_display.ino">Joystick with 8x8 matrix display</a>
 5. Number patterns - <a href="https://github.com/vinsdragonis/Arduino-8x8-matrix/blob/master/Digits/Digits.ino">Digits</a>
+
+**Download the Arduino IDE from the link below:**
+<a href="https://www.arduino.cc/en/software">Arduino IDE</a>
+
