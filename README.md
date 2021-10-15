@@ -1,9 +1,18 @@
 # Arduino-8x8-matrix
 
-**Libraries used :**
+**Libraries used:**
 
     1. LedControl
     2. Keypad
+    
+**Components in use:**
+
+    1. Arduino UNO
+    2. 8x8 matrix display
+    3. 4x3 Keypad
+    4. Joystick Module
+    5. Jumper cables
+    6. Breadboard
 
 **Currently Developed projects and program files :**
 
